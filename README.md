@@ -1,6 +1,6 @@
 # ForoHub
 
-ForoHub es una API RESTful desarrollada con Spring Boot para gestionar tópicos en un foro. Proporciona funcionalidades CRUD completas, integración con una base de datos MySQL y utiliza autenticación basada en JWT para garantizar la seguridad.
+ForoHub es una API REST desarrollada con Spring Boot para gestionar tópicos en un foro. Proporciona funcionalidades CRUD completas, integración con una base de datos MySQL y utiliza autenticación basada en JWT para garantizar la seguridad.
 
 ---
 
@@ -147,8 +147,3 @@ ForoHub es una API RESTful desarrollada con Spring Boot para gestionar tópicos 
 - **Base de datos:** MySQL, Flyway.
 - **Dependencias adicionales:** Lombok, Java JWT.
 
----
-
-## **Contribuciones**
-
-Las contribuciones son bienvenidas. Si tienes sugerencias o encuentras algún problema, por favor crea un issue o envía un pull request.
